@@ -17,6 +17,9 @@ console.log(selectedColors.length);
 //Functions
 function greet(name){
     console.log('Hello'+ name)
+greet('John');
 }
 
-greet('John');
+let project = ["practice"];
+console.log("project");
+
